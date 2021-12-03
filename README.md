@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DenisLeyva
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any dapp project
 - 📫 How to reach me https://twitter.com/denisleyva90
 
 <!---
